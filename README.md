@@ -32,7 +32,7 @@ feature, except it is now available on every app!
 
 ## Download & Install
 
-Pre-built binaries can be downloaded from the [releases page](https://github.com/dteoh/SlowQuitApps/releases).
+Pre-built binaries can be downloaded from the [releases page](https://github.com/imagecity/SlowQuitApps/releases/tag/v0.8.0.1).
 
 Unzip, drag the app to Applications, and then run it. You can optionally
 choose to automatically start the application on login.
